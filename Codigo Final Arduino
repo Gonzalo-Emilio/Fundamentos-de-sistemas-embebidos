@@ -1,5 +1,10 @@
 Código Arduino 
 
+//autores: 
+//Palacios Flores Gonzalo Emilio
+//Camacho de la O Gerardo
+//García Ramírez Ángel Daniel
+
 #include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 #include <NTPClient.h>
